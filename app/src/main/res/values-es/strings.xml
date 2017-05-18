@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi segunda aplicación</string>
+
+    <string name="saludo">Hola, ¿qué tal?</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="boton">CAMBIA</string>
+</resources>
